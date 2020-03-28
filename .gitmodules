@@ -1,0 +1,3 @@
+[submodule "libapps"]
+	path = app/terminal/libapps
+	url = https://github.com/ish-app/libapps
